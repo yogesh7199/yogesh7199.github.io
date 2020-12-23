@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="script.xsl" ?>
+<cricket> 
+	<cricketer>
+		<name> Mahendra Singh Dhoni </name>
+		<gender> Male </gender>
+		<age> 39 </age>
+        <country> India </country>
+        <role> Wicket-keeper batsman </role>
+        <batting> 	Right-handed </batting>
+        <bowling>  Right-arm medium </bowling>
+        <debut> 
+        	<odi>  23 December 2004 v Bangladesh </odi>
+            <test> 2 December 2005 v Sri Lanka </test>
+            <t20> 1 December 2006 v South Africa </t20>
+        </debut>
+        <matches>
+        	<odi> 350 </odi>
+        	<test> 90 </test>
+            <t20> 98 </t20>
+        </matches>
+        <scores>
+        	<odi> 10,773 </odi>
+        	<test> 4876 </test>
+        	<t20> 1617 </t20>
+        </scores>
+        <wickets>
+        	<odi> 1 </odi>
+        	<test> 0 </test>
+        	<t20> - </t20>
+        </wickets>
+        <highestscore>
+        	<odi> 183* </odi>
+        	<test> 224 </test>
+        	<t20> 56 </t20>
+        </highestscore>
+        <centuries>
+        	<odi> 10 </odi>
+            <test> 6 </test>
+            <t20> 0 </t20>
+        </centuries>
+    </cricketer>
+    <cricketer>
+		<name> Virat Kohli </name>
+		<gender> Male </gender>
+		<age> 32 </age>
+        <country> India </country>
+        <role> Top-Order Batsman </role>
+        <batting> Right-handed </batting>
+        <bowling> Right-arm medium </bowling>
+        <debut> 
+        	<odi> 18 August 2008 v Sri Lanka </odi>
+            <test> 	20 June 2011 v West Indies </test>
+            <t20> 12 June 2010 v Zimbabwe </t20>
+        </debut>
+        <matches>
+        	<odi> 251 </odi>
+        	<test> 87 </test>
+            <t20> 85 </t20>
+        </matches>
+        <scores>
+        	<odi> 12,040 </odi>
+        	<test> 7,314 </test>
+        	<t20> 2,928 </t20>
+        </scores>
+        <wickets>
+        	<odi> 4 </odi>
+        	<test> 0 </test>
+        	<t20> 4 </t20>
+        </wickets>
+        <highestscore>
+        	<odi> 183 </odi>
+        	<test> 254* </test>
+        	<t20> 94* </t20>
+        </highestscore>
+        <centuries>
+        	<odi> 43 </odi>
+            <test> 27 </test>
+            <t20> 0 </t20>
+        </centuries>
+    </cricketer>
+    <cricketer>
+		<name> AB de Villiers </name>
+		<gender> Male </gender>
+		<age> 36 </age>
+        <country> South Africa </country>
+        <role> wicket-keeper,Batsman </role>
+        <batting> Right-handed </batting>
+        <bowling> Right-arm medium </bowling>
+        <debut> 
+        	<odi> 2 February 2005 v England </odi>
+            <test> 17 December 2004 v England </test>
+            <t20> 24 February 2006 v Australia </t20>
+        </debut>
+        <matches>
+        	<odi> 228 </odi>
+        	<test> 114 </test>
+            <t20> 78 </t20>
+        </matches>
+        <scores>
+        	<odi> 9,577 </odi>
+        	<test> 8,765 </test>
+        	<t20> 1,672 </t20>
+        </scores>
+        <wickets>
+        	<odi> 2 </odi>
+        	<test> 7 </test>
+        	<t20> - </t20>
+        </wickets>
+        <highestscore>
+        	<odi> 176 </odi>
+        	<test> 278* </test>
+        	<t20> 79* </t20>
+        </highestscore>
+        <centuries>
+        	<odi> 25 </odi>
+            <test> 22 </test>
+            <t20> 0 </t20>
+        </centuries>
+    </cricketer>
+    <cricketer>
+		<name> Ellyse Perry </name>
+		<gender> Female </gender>
+		<age> 30 </age>
+        <country> Australia </country>
+        <role> All-rounder </role>
+        <batting> Right-handed </batting>
+        <bowling> Right-arm fast </bowling>
+        <debut> 
+        	<odi> 22 July 2007 v New Zealand </odi>
+            <test> 15 February 2008 v England </test>
+            <t20> 	1 February 2008 v England </t20>
+        </debut>
+        <matches>
+        	<odi> 112 </odi>
+        	<test> 8 </test>
+            <t20> 118 </t20>
+        </matches>
+        <scores>
+        	<odi> 3,022 </odi>
+        	<test> 624 </test>
+        	<t20> 1,197 </t20>
+        </scores>
+        <wickets>
+        	<odi> 152 </odi>
+        	<test> 31 </test>
+        	<t20> 114 </t20>
+        </wickets>
+        <highestscore>
+        	<odi> 112* </odi>
+        	<test> 213* </test>
+        	<t20> 60* </t20>
+        </highestscore>
+        <centuries>
+        	<odi> 2 </odi>
+            <test> 2 </test>
+            <t20> 0 </t20>
+        </centuries>
+    </cricketer>
+    <cricketer>
+		<name> Smriti Mandhana </name>
+		<gender> Female </gender>
+		<age> 24 </age>
+        <country> India </country>
+        <role> batswoman </role>
+        <batting> Left-handed </batting>
+        <bowling>  Right-arm medium pace </bowling>
+        <debut> 
+        	<odi> 10 April 2013 v Bangladesh </odi>
+            <test> 13 August 2014 v England </test>
+            <t20> 5 April 2013 v Bangladesh </t20>
+        </debut>
+        <matches>
+        	<odi> 51 </odi>
+        	<test> 2 </test>
+            <t20> 75 </t20>
+        </matches>
+        <scores>
+        	<odi> 2,025 </odi>
+        	<test> 81 </test>
+        	<t20> 1,716 </t20>
+        </scores>
+        <wickets>
+        	<odi> - </odi>
+        	<test> - </test>
+        	<t20> - </t20>
+        </wickets>
+        <highestscore>
+        	<odi> 135 </odi>
+        	<test> 51 </test>
+        	<t20> 86 </t20>
+        </highestscore>
+        <centuries>
+        	<odi> 4 </odi>
+            <test> 0 </test>
+            <t20> 0 </t20>
+        </centuries>
+    </cricketer>
+    <cricketer>
+		<name> Jasprit Bumrah </name>
+		<gender> Male </gender>
+		<age> 27 </age>
+        <country> Indian </country>
+        <role> Bowler </role>
+        <batting> Right-handed </batting>
+        <bowling> Right-arm fast </bowling>
+        <debut> 
+        	<odi> 23 January 2016 v Australia </odi>
+            <test> 5 January 2018 v South Africa </test>
+            <t20> 26 January 2016 v Australia </t20>
+        </debut>
+        <matches>
+        	<odi> 67 </odi>
+        	<test> 15 </test>
+            <t20> 50 </t20>
+        </matches>
+        <scores>
+        	<odi> 19 </odi>
+        	<test> 38 </test>
+        	<t20> 8 </t20>
+        </scores>
+        <wickets>
+        	<odi> 108 </odi>
+        	<test> 70 </test>
+        	<t20> 59 </t20>
+        </wickets>
+        <highestscore>
+        	<odi> 10* </odi>
+        	<test> 10 </test>
+        	<t20> 7 </t20>
+        </highestscore>
+        <centuries>
+        	<odi> 0 </odi>
+            <test> 0 </test>
+            <t20> 0 </t20>
+        </centuries>
+    </cricketer>
+    <cricketer>
+		<name> Rashid Khan </name>
+		<gender> Male </gender>
+		<age> 22 </age>
+        <country> Afghanistan </country>
+        <role> Bowler </role>
+        <batting> Right-handed </batting>
+        <bowling> Right-arm leg break </bowling>
+        <debut> 
+        	<odi> 18 October 2015 v Zimbabwe </odi>
+            <test> 14 June 2018 v India </test>
+            <t20> 26 October 2015 v Zimbabwe </t20>
+        </debut>
+        <matches>
+        	<odi> 71 </odi>
+        	<test> 4 </test>
+            <t20> 48 </t20>
+        </matches>
+        <scores>
+        	<odi> 905 </odi>
+        	<test> 106 </test>
+        	<t20> 48 </t20>
+        </scores>
+        <wickets>
+        	<odi> 133 </odi>
+        	<test> 23 </test>
+        	<t20> 89 </t20>
+        </wickets>
+        <highestscore>
+        	<odi> 60* </odi>
+        	<test> 51 </test>
+        	<t20> 33 </t20>
+        </highestscore>
+        <centuries>
+        	<odi> 0 </odi>
+            <test> 0 </test>
+            <t20> 0 </t20>
+        </centuries>
+    </cricketer>
+        <cricketer>
+		<name> Harmanpreet Kaur </name>
+		<gender> Female </gender>
+		<age> 31 </age>
+        <country> India </country>
+        <role> all-rounder </role>
+        <batting> Right-handed </batting>
+        <bowling> Right-arm offbreak </bowling>
+        <debut> 
+        	<odi> 7 March 2009 v Pakistan </odi>
+            <test> 13 August 2014 v England </test>
+            <t20> 11 June 2009 v England </t20>
+        </debut>
+        <matches>
+        	<odi> 99 </odi>
+        	<test> 2 </test>
+            <t20> 113 </t20>
+        </matches>
+        <scores>
+        	<odi> 2,372 </odi>
+        	<test> 26 </test>
+        	<t20> 2,182</t20>
+        </scores>
+        <wickets>
+        	<odi> 23 </odi>
+        	<test> 9 </test>
+        	<t20> 29 </t20>
+        </wickets>
+        <highestscore>
+        	<odi> 171* </odi>
+        	<test> 17 </test>
+        	<t20> 103 </t20>
+        </highestscore>
+        <centuries>
+        	<odi> 3 </odi>
+            <test> 0 </test>
+            <t20> 1 </t20>
+        </centuries>
+    </cricketer>
+    
+    <cricketer>
+		<name> Ben Stokes </name>
+		<gender> Male </gender>
+		<age> 29 </age>
+        <country> England </country>
+        <role> All-rounder </role>
+        <batting> Left-handed </batting>
+        <bowling> Right-arm fast-medium </bowling>
+        <debut> 
+        	<odi> 25 August 2011 v Ireland </odi>
+            <test> 5 December 2013 v Australia </test>
+            <t20> 23 September 2011 v West Indies </t20>
+        </debut>
+        <matches>
+        	<odi> 95 </odi>
+        	<test> 67 </test>
+            <t20> 143 </t20>
+        </matches>
+        <scores>
+        	<odi> 2,682 </odi>
+        	<test> 4,428 </test>
+        	<t20> 8,212 </t20>
+        </scores>
+        <wickets>
+        	<odi> 70 </odi>
+        	<test> 158 </test>
+        	<t20> 330 </t20>
+        </wickets>
+        <highestscore>
+        	<odi> 102* </odi>
+        	<test> 258 </test>
+        	<t20> 98 </t20>
+        </highestscore>
+        <centuries>
+        	<odi> 3 </odi>
+            <test> 10 </test>
+            <t20> 0 </t20>
+        </centuries>
+    </cricketer>
+    <cricketer>
+		<name> Chris Gayle </name>
+		<gender> Male </gender>
+		<age> 41 </age>
+        <country> West Indies </country>
+        <role> all-rounder </role>
+        <batting> Left-handed </batting>
+        <bowling> Right-arm off break </bowling>
+        <debut> 
+        	<odi> 11 September 1999 v India </odi>
+            <test> 16 March 2000 v Zimbabwe </test>
+            <t20> 16 February 2006 v New Zealand </t20>
+        </debut>
+        <matches>
+        	<odi> 301 </odi>
+        	<test> 103 </test>
+            <t20> 58 </t20>
+        </matches>
+        <scores>
+        	<odi> 10,480 </odi>
+        	<test> 7,215 </test>
+        	<t20> 1,627 </t20>
+        </scores>
+        <wickets>
+        	<odi> 167 </odi>
+        	<test> 73 </test>
+        	<t20> 17 </t20>
+        </wickets>
+        <highestscore>
+        	<odi> 215 </odi>
+        	<test> 333 </test>
+        	<t20> 117 </t20>
+        </highestscore>
+        <centuries>
+        	<odi> 25 </odi>
+            <test> 15 </test>
+            <t20> 2 </t20>
+        </centuries>
+    </cricketer>
+        <cricketer>
+		<name> Tammy Beaumont </name>
+		<gender> Female </gender>
+		<age> 29 </age>
+        <country> England </country>
+        <role> wicket-keeper,opener </role>
+        <batting> Right-handed </batting>
+        <bowling> - </bowling>
+        <debut> 
+        	<odi> 4 November 2009 v West Indies </odi>
+            <test> 11 August 2013 v Australia </test>
+            <t20> 9 November 2009 v West Indies </t20>
+        </debut>
+        <matches>
+        	<odi> 55 </odi>
+        	<test> 3 </test>
+            <t20> 57 </t20>
+        </matches>
+        <scores>
+        	<odi> 1,733 </odi>
+        	<test> 132 </test>
+        	<t20> 829 </t20>
+        </scores>
+        <wickets>
+        	<odi> - </odi>
+        	<test> - </test>
+        	<t20> - </t20>
+        </wickets>
+        <highestscore>
+        	<odi> 168* </odi>
+        	<test> 70 </test>
+        	<t20> 116 </t20>
+        </highestscore>
+        <centuries>
+        	<odi> 5 </odi>
+            <test> 0 </test>
+            <t20> 1 </t20>
+        </centuries>
+    </cricketer>    
+    <cricketer>
+		<name> Kane Williamson </name>
+		<gender> Male </gender>
+		<age> 30 </age>
+        <country> New-Zealand </country>
+        <role> Batsman </role>
+        <batting> Right-handed </batting>
+        <bowling> Right-arm off-break </bowling>
+        <debut> 
+        	<odi> 10 August 2010 v India </odi>
+            <test> 4 November 2010 v India </test>
+            <t20> 16 October 2011 v Zimbabwe </t20>
+        </debut>
+        <matches>
+        	<odi> 151 </odi>
+        	<test> 81 </test>
+            <t20> 62 </t20>
+        </matches>
+        <scores>
+        	<odi> 6,173 </odi>
+        	<test> 6,727 </test>
+        	<t20> 1,723 </t20>
+        </scores>
+        <wickets>
+        	<odi> 37 </odi>
+        	<test> 29 </test>
+        	<t20> 6 </t20>
+        </wickets>
+        <highestscore>
+        	<odi> 148 </odi>
+        	<test> 251 </test>
+        	<t20> 95 </t20>
+        </highestscore>
+        <centuries>
+        	<odi> 13 </odi>
+            <test> 22 </test>
+            <t20> 0 </t20>
+        </centuries>
+    </cricketer>
+        <cricketer>
+		<name> Steve Smith </name>
+		<gender> Male </gender>
+		<age> 31 </age> 
+        <country> Australia </country>
+        <role> Top-Order batsman </role>
+        <batting> Right-handed </batting>
+        <bowling> Right-arm leg-spin </bowling>
+        <debut> 
+        	<odi> 19 February 2010 v West Indies </odi>
+            <test> 	13 July 2010 v Pakistan </test>
+            <t20> 5 February 2010 v Pakistan </t20>
+        </debut>
+        <matches>
+        	<odi> 128 </odi>
+        	<test> 74 </test>
+            <t20> 45 </t20>
+        </matches>
+        <scores>
+        	<odi> 4,378 </odi>
+        	<test> 7,229 </test>
+        	<t20> 794 </t20>
+        </scores>
+        <wickets>
+        	<odi> 28 </odi>
+        	<test> 17 </test>
+        	<t20> 17 </t20>
+        </wickets>
+        <highestscore>
+        	<odi> 164 </odi>
+        	<test> 239 </test>
+        	<t20> 90 </t20>
+        </highestscore>
+        <centuries>
+        	<odi> 11 </odi>
+            <test> 26 </test>
+            <t20> 0 </t20>
+        </centuries>
+    </cricketer>
+      
+    <cricketer>
+		<name> Babar Azam </name>
+		<gender> Male </gender>
+		<age> 26 </age>
+        <country> pakistan </country>
+        <role> Top-Order batsman </role>
+        <batting> Right-handed </batting>
+        <bowling> Right-arm off-break </bowling>
+        <debut> 
+        	<odi> 31 May 2015 v Zimbabwe </odi>
+            <test> 	13 October 2016 v West Indies </test>
+            <t20> 	7 September 2016 v England </t20>
+        </debut>
+        <matches>
+        	<odi> 77 </odi> 
+        	<test> 29 </test>
+            <t20> 44 </t20>
+        </matches>
+        <scores>
+        	<odi> 3,580 </odi>
+        	<test> 2,045 </test>
+        	<t20> 1,681 </t20>
+        </scores>
+        <wickets>
+        	<odi> - </odi>
+        	<test> - </test>
+        	<t20> - </t20>
+        </wickets>
+        <highestscore>
+        	<odi> 125* </odi>
+        	<test> 143 </test>
+        	<t20> 97* </t20>
+        </highestscore>
+        <centuries>
+        	<odi> 12 </odi>
+            <test> 5 </test>
+            <t20> 0 </t20>
+        </centuries>
+    </cricketer>
+      
+    <cricketer>
+		<name> Jofra Archer </name>
+		<gender> Male </gender>
+		<age> 25 </age>
+        <country> England </country>
+        <role> Bowler </role>
+        <batting> Right-handed </batting>
+        <bowling> Right-arm fast </bowling>
+        <debut> 
+        	<odi> 3 May 2019 v Ireland </odi>
+            <test> 14 August 2019 v Australia </test>
+            <t20> 5 May 2019 v Pakistan </t20>
+        </debut>
+        <matches>
+        	<odi> 17 </odi>
+        	<test> 11 </test>
+            <t20> 40 </t20>5 May 2019 v Pakistan 
+        </matches>
+        <scores>
+        	<odi> 27 </odi>
+        	<test> 139 </test>
+        	<t20> 183 </t20>
+        </scores>
+        <wickets>
+        	<odi> 30 </odi>
+        	<test> 38 </test>
+        	<t20> 42 </t20>
+        </wickets>
+        <highestscore>
+        	<odi> 8* </odi>
+        	<test> 30 </test>
+        	<t20> 26 </t20>
+        </highestscore>
+        <centuries>
+        	<odi> 0 </odi>
+            <test> 0 </test>
+            <t20> 0 </t20>
+        </centuries>
+    </cricketer>
+    <cricketer>
+		<name> Hardik Pandya </name>
+		<gender> Male </gender>
+		<age> 27 </age>
+        <country> India </country>
+        <role> All-rounder </role>
+        <batting> Right-handed </batting>
+        <bowling> Right-arm fast-medium </bowling>
+        <debut> 
+        	<odi> 16 October 2016 v New Zealand </odi>
+            <test> 26 July 2017 v Sri Lanka </test>
+            <t20> 26 January 2016 v Australia </t20>
+        </debut>
+        <matches>
+        	<odi> 57 </odi>
+        	<test> 11 </test>
+            <t20> 38 </t20>
+        </matches>
+        <scores>
+        	<odi> 1,167 </odi>
+        	<test> 532 </test>
+        	<t20> 310 </t20>
+        </scores>
+        <wickets>
+        	<odi> 55 </odi>
+        	<test> 17 </test>
+        	<t20> 38 </t20>
+        </wickets>
+        <highestscore>
+        	<odi> 92* </odi>
+        	<test> 108 </test>
+        	<t20> 33* </t20>
+        </highestscore>
+        <centuries>
+        	<odi> 0 </odi>
+            <test> 1 </test>
+            <t20> 0 </t20>
+        </centuries>
+    </cricketer>
+  
+
+        
+</cricket>
+  
+    
